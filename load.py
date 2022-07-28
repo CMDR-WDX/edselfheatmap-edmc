@@ -3,6 +3,11 @@ import requests
 
 _plugin_name = "eliteheatmap"
 
+#
+# WARNING!!!!
+#
+# Make sure this is the same Port as on the Heatmap Server
+
 SERVER_PORT = 8000
 
 
